@@ -1,0 +1,112 @@
+{
+  "institution": "Universidad Autónoma Latinoamericana",
+  "period": "2026-2",
+  "instructor": "Docente titular",
+  "courses": [
+    {
+      "id": "algoritmos",
+      "slug": "algoritmos-programacion.html",
+      "name": "Algoritmos y programación",
+      "shortName": "Algoritmos",
+      "code": "INF-101",
+      "category": "Fundamentos",
+      "accent": "violet",
+      "description": "Un recorrido práctico por la lógica de programación: descomponer problemas, diseñar algoritmos y convertirlos en soluciones claras usando programación estructurada.",
+      "objective": "Diseñar, representar y codificar algoritmos que resuelvan problemas sencillos, aplicando estructuras de control, modularidad y buenas prácticas.",
+      "schedule": "Lunes y miércoles · 8:00 a. m. – 10:00 a. m.",
+      "location": "Bloque B · Aula 302",
+      "modality": "Presencial",
+      "topics": [
+        "Pensamiento computacional y descomposición de problemas",
+        "Pseudocódigo y diagramas de flujo",
+        "Variables, tipos de datos y expresiones",
+        "Condicionales, ciclos y trazado de algoritmos",
+        "Funciones, arreglos y pruebas básicas"
+      ],
+      "students": [
+        { "code": "AP-001", "name": "Valentina Restrepo" },
+        { "code": "AP-002", "name": "Mateo Cárdenas" },
+        { "code": "AP-003", "name": "Sara Montoya" },
+        { "code": "AP-004", "name": "Juan Pablo Vélez" },
+        { "code": "AP-005", "name": "Manuela Giraldo" },
+        { "code": "AP-006", "name": "Nicolás Ospina" }
+      ],
+      "evaluations": [
+        { "title": "Bitácora de problemas", "description": "Análisis y descomposición de retos cotidianos en pasos verificables.", "date": "2026-09-11", "weight": 15, "status": "Calificada" },
+        { "title": "Taller de estructuras", "description": "Ejercicios de condicionales, ciclos y seguimiento de variables.", "date": "2026-10-23", "weight": 25, "status": "En curso" },
+        { "title": "Proyecto: soluciones en código", "description": "Programa modular con pruebas y sustentación breve.", "date": "2026-11-20", "weight": 35, "status": "Próxima" },
+        { "title": "Reto integrador", "description": "Resolución individual de un problema con pseudocódigo y código.", "date": "2026-12-04", "weight": 25, "status": "Próxima" }
+      ]
+    },
+    {
+      "id": "desarrollo-web",
+      "slug": "desarrollo-web-1.html",
+      "name": "Desarrollo Web 1",
+      "shortName": "Desarrollo Web 1",
+      "code": "DWEB-110",
+      "category": "Desarrollo",
+      "accent": "blue",
+      "description": "Introducción a la construcción de sitios web accesibles y adaptables mediante HTML semántico, CSS y JavaScript en el navegador.",
+      "objective": "Crear sitios web de varias páginas que organicen contenido de forma semántica y ofrezcan una experiencia usable en diferentes dispositivos.",
+      "schedule": "Martes y jueves · 10:00 a. m. – 12:00 m.",
+      "location": "Laboratorio de sistemas · Sala 204",
+      "modality": "Presencial",
+      "topics": [
+        "Estructura HTML y etiquetas semánticas",
+        "Formularios, enlaces, imágenes y tablas",
+        "CSS: selectores, cascada y modelo de caja",
+        "Diseño adaptable y componentes visuales",
+        "JavaScript: eventos, DOM y datos JSON"
+      ],
+      "students": [
+        { "code": "DW-001", "name": "Laura Jiménez" },
+        { "code": "DW-002", "name": "Samuel Arango" },
+        { "code": "DW-003", "name": "Isabella Mejía" },
+        { "code": "DW-004", "name": "Andrés Londoño" },
+        { "code": "DW-005", "name": "Mariana Escobar" },
+        { "code": "DW-006", "name": "Tomás Echeverri" }
+      ],
+      "evaluations": [
+        { "title": "Mapa de estructura HTML", "description": "Prototipo de una página informativa con jerarquía semántica.", "date": "2026-09-18", "weight": 15, "status": "Calificada" },
+        { "title": "Laboratorio de estilos", "description": "Interfaz adaptable implementada con CSS y componentes reutilizables.", "date": "2026-10-30", "weight": 25, "status": "En curso" },
+        { "title": "Sitio web temático", "description": "Proyecto multipágina con navegación, accesibilidad y diseño responsive.", "date": "2026-11-27", "weight": 35, "status": "Próxima" },
+        { "title": "Interacción con datos", "description": "Consulta de un archivo JSON y actualización dinámica de la interfaz.", "date": "2026-12-04", "weight": 25, "status": "Próxima" }
+      ]
+    },
+    {
+      "id": "pensamiento",
+      "slug": "pensamiento-algoritmico.html",
+      "name": "Pensamiento algorítmico",
+      "shortName": "Pensamiento algorítmico",
+      "code": "PENS-105",
+      "category": "Fundamentos",
+      "accent": "orange",
+      "description": "Asignatura para fortalecer el razonamiento lógico y la resolución sistemática de problemas antes de expresarlos en un lenguaje de programación.",
+      "objective": "Aplicar estrategias de abstracción, reconocimiento de patrones y diseño de algoritmos para explicar soluciones de manera ordenada.",
+      "schedule": "Viernes · 8:00 a. m. – 12:00 m.",
+      "location": "Bloque A · Aula 105",
+      "modality": "Presencial",
+      "topics": [
+        "Abstracción y formulación de problemas",
+        "Patrones, secuencias y clasificación",
+        "Descomposición y diseño paso a paso",
+        "Representación con pseudocódigo y diagramas",
+        "Validación de soluciones y casos límite"
+      ],
+      "students": [
+        { "code": "PA-001", "name": "Daniela Álvarez" },
+        { "code": "PA-002", "name": "Emiliano Ríos" },
+        { "code": "PA-003", "name": "Luciana Pardo" },
+        { "code": "PA-004", "name": "Felipe Duque" },
+        { "code": "PA-005", "name": "Gabriela Marín" },
+        { "code": "PA-006", "name": "Santiago Toro" }
+      ],
+      "evaluations": [
+        { "title": "Diario de estrategias", "description": "Registro de patrones y formas de abordar problemas semanales.", "date": "2026-09-25", "weight": 20, "status": "Calificada" },
+        { "title": "Desafío de descomposición", "description": "Desglose de un problema complejo en subtareas comprobables.", "date": "2026-10-30", "weight": 25, "status": "En curso" },
+        { "title": "Diseño de algoritmo", "description": "Solución documentada con pseudocódigo, ejemplos y casos límite.", "date": "2026-11-20", "weight": 30, "status": "Próxima" },
+        { "title": "Sustentación integradora", "description": "Explicación oral del proceso de razonamiento y validación.", "date": "2026-12-04", "weight": 25, "status": "Próxima" }
+      ]
+    }
+  ]
+}
