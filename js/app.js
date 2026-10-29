@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const dataUrl = "../data/cursos.json";
+  const dataUrl = "data/cursos.json";
   const page = document.body.dataset.page;
   const main = document.querySelector("[data-app-content]");
 
